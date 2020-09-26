@@ -18,3 +18,20 @@ cursor: pointer;
 button:hover {
     background-color: #27ae60;
 }
+
+.alert {
+    background-color: #f8d7da;
+    border:none;
+    border-color: #f5c6cb;
+    color: #721c24;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    width: 80px;
+    display: inline-block;
+    border-radius: 5%;
+    text-align: left;
+    font-size: 18px;
+    }
+    
